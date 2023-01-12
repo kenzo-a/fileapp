@@ -1,0 +1,12 @@
+ログインユーザーごとのページを表示
+ユーザーごとに異なる領域へのアップロード
+
+index.htmlに対してログアウト実装
+login_form見た目改善
+
+.htmlの下のメッセージを、"戻る"に変更
+login_formにuser,passwordのみ記載
+index.html内の文字サイズを変更→断念
+"username"さんを記載
+管理ページadmin_list.htmlに"戻る"を実装
+ダウンロードページinfo.htmlから"パスワード"を消す
